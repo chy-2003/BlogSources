@@ -1,0 +1,60 @@
+# ZZY金牌选手卡常头文件
+
+转自https://www.cnblogs.com/stxy-ferryman/p/9283519.html
+```C++
+#pragma GCC diagnostic error "-std=c++11"
+#pragma GCC optimize("-fdelete-null-pointer-checks,inline-functions-called-once,-funsafe-loop-optimizations,-fexpensive-optimizations,-foptimize-sibling-calls,-ftree-switch-conversion,-finline-small-functions,inline-small-functions,-frerun-cse-after-loop,-fhoist-adjacent-loads,-findirect-inlining,-freorder-functions,no-stack-protector,-fpartial-inlining,-fsched-interblock,-fcse-follow-jumps,-fcse-skip-blocks,-falign-functions,-fstrict-overflow,-fstrict-aliasing,-fschedule-insns2,-ftree-tail-merge,inline-functions,-fschedule-insns,-freorder-blocks,-fwhole-program,-funroll-loops,-fthread-jumps,-fcrossjumping,-fcaller-saves,-fdevirtualize,-falign-labels,-falign-loops,-falign-jumps,unroll-loops,-fsched-spec,-ffast-math,Ofast,inline,-fgcse,-fgcse-lm,-fipa-sra,-ftree-pre,-ftree-vrp,-fpeephole2",3)
+#pragma GCC target("avx","sse2")
+```
+
+改个格式的版本
+```C++
+#pragma GCC diagnostic error "-std=c++11"
+#pragma GCC optimize("-fdelete-null-pointer-checks")
+#pragma GCC optimize("inline-functions-called-once")
+#pragma GCC optimize("-funsafe-loop-optimizations")
+#pragma GCC optimize("-fexpensive-optimizations")
+#pragma GCC optimize("-foptimize-sibling-calls")
+#pragma GCC optimize("-ftree-switch-conversion")
+#pragma GCC optimize("-finline-small-functions")
+#pragma GCC optimize("inline-small-functions")
+#pragma GCC optimize("-frerun-cse-after-loop")
+#pragma GCC optimize("-fhoist-adjacent-loads")
+#pragma GCC optimize("-findirect-inlining")
+#pragma GCC optimize("-freorder-functions")
+#pragma GCC optimize("no-stack-protector")
+#pragma GCC optimize("-fpartial-inlining")
+#pragma GCC optimize("-fsched-interblock")
+#pragma GCC optimize("-fcse-follow-jumps")
+#pragma GCC optimize("-fcse-skip-blocks")
+#pragma GCC optimize("-falign-functions")
+#pragma GCC optimize("-fstrict-overflow")
+#pragma GCC optimize("-fstrict-aliasing")
+#pragma GCC optimize("-fschedule-insns2")
+#pragma GCC optimize("-ftree-tail-merge")
+#pragma GCC optimize("inline-functions")
+#pragma GCC optimize("-fschedule-insns")
+#pragma GCC optimize("-freorder-blocks")
+#pragma GCC optimize("-fwhole-program")
+#pragma GCC optimize("-funroll-loops")
+#pragma GCC optimize("-fthread-jumps")
+#pragma GCC optimize("-fcrossjumping")
+#pragma GCC optimize("-fcaller-saves")
+#pragma GCC optimize("-fdevirtualize")
+#pragma GCC optimize("-falign-labels")
+#pragma GCC optimize("-falign-loops")
+#pragma GCC optimize("-falign-jumps")
+#pragma GCC optimize("unroll-loops")
+#pragma GCC optimize("-fsched-spec")
+#pragma GCC optimize("-ffast-math")
+#pragma GCC optimize("-fpeephole2")
+#pragma GCC optimize("-ftree-pre")
+#pragma GCC optimize("-ftree-vrp")
+#pragma GCC optimize("-fgcse-lm")
+#pragma GCC optimize("-fipa-sra")
+#pragma GCC optimize("inline")
+#pragma GCC optimize("-fgcse")
+#pragma GCC optimize("Ofast")
+#pragma GCC optimize(3)
+#pragma GCC target("avx","sse2")
+```
