@@ -1,5 +1,7 @@
 # HDU 2829 [Lawrence] DP斜率优化
 
+<center>DP斜率优化</center>
+
 ## 解题思路
 
 首先肯定是考虑如何快速求出一段铁路的价值。
