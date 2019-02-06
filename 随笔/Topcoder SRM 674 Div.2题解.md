@@ -1,6 +1,6 @@
 # Topcoder SRM 674 Div.2题解
 
-<center>杂题, 树形DP</center>
+<center>杂题, DP_树形DP</center>
 
 ## T1
 ### 解题思路

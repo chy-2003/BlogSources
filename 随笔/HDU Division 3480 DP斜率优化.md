@@ -1,6 +1,6 @@
 # HDU 3480 Division DP斜率优化
 
-<center>DP斜率优化</center>
+<center>DP_斜率优化</center>
 
 ## 解题思路
 

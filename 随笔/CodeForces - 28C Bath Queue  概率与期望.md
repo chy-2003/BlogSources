@@ -1,6 +1,6 @@
 # CodeForces - 28C Bath Queue  概率与期望
 
-<center>概率与期望</center>
+<center>数学_概率与期望</center>
 
 ~~我概率期望真是垃圾……，这题搞了两个钟头……~~
 

@@ -1,6 +1,6 @@
 # CodeForces 538F A Heap of Heaps
 
-<center>树状数组</center>
+<center>数据结构_树状数组</center>
 
 ## 题意
 给定一个长度为n的数组A，将它变为一颗k叉树（1 <= k <= n -  1)（堆的形式编号）。

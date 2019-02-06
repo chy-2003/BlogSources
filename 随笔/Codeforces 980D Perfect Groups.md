@@ -1,6 +1,6 @@
 # Codeforces 980D Perfect Groups
 
-<center>数论</center>
+<center>数学_数论</center>
 
 ## 题目大意
 

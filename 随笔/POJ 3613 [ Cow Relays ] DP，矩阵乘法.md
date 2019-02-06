@@ -1,6 +1,6 @@
 # POJ 3613 [ Cow Relays ] DP，矩阵乘法
 
-<center>DP，矩阵乘法</center>
+<center>DP，数学_矩阵乘法</center>
 
 ##　解题思路
 

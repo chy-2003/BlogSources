@@ -1,6 +1,6 @@
 # AtCoder4351 Median of Medians 二分, 树状数组
 
-<center>二分, 树状数组</center>
+<center>技巧_二分, 数据结构_树状数组</center>
 
 ## 题目大意
 

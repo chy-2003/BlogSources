@@ -1,6 +1,6 @@
 # POJ3233 [C - Matrix Power Series] 矩阵乘法
 
-<center>矩阵乘法</center>
+<center>数学_矩阵乘法</center>
 
 ## 解题思路
 

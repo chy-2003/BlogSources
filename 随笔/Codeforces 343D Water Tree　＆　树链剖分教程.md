@@ -1,6 +1,6 @@
 # Codeforces 343D Water Tree　＆　树链剖分教程
 
-<center>树链剖分</center>
+<center>数据结构_树链剖分</center>
 
 ---
 

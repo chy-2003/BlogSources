@@ -1,6 +1,6 @@
 # ZOJ3649 Social Net
 
-<center>倍增, 最小生成树</center>
+<center>技巧_倍增, 数据结构_最小生成树</center>
 
 题目链接：http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=3649
 

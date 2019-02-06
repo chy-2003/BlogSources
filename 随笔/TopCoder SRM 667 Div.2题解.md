@@ -1,6 +1,6 @@
 # TopCoder SRM 667 Div.2题解
 
-<center>DP, 杂题, 状压DP</center>
+<center>DP, 杂题, DP_状压DP</center>
 
 ---
 概览：

@@ -1,6 +1,6 @@
 # HDU 3507 [Print Article]DP斜率优化
 
-<center>DP斜率优化</center>
+<center>DP_斜率优化</center>
 
 ## 题目大意
 

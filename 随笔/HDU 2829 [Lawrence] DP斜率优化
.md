@@ -1,6 +1,6 @@
 # HDU 2829 [Lawrence] DP斜率优化
 
-<center>DP斜率优化</center>
+<center>DP_斜率优化</center>
 
 ## 解题思路
 

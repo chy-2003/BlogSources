@@ -1,5 +1,7 @@
 # C++读入神器——文操快读（oj也可以用）
 
+<center>奇技淫巧</center>
+
 当某天，本蒟蒻沉迷于卡常的时候：
 
 ![图](https://github.com/chy-2003/PicS/blob/master/1.png?raw=true)

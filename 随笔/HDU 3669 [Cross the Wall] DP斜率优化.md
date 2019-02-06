@@ -1,6 +1,6 @@
 # HDU 3669 [Cross the Wall] DP斜率优化
 
-<center>DP斜率优化</center>
+<center>DP_斜率优化</center>
 
 ## 问题分析
 
