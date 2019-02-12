@@ -4,7 +4,7 @@
 
 当某天，本蒟蒻沉迷于卡常的时候：
 
-![图](https://github.com/chy-2003/PicS/blob/master/1.png?raw=true)
+![图](https://github.com/chy-2003/PicS/raw/master/1.png?raw=true)
 
 我……
 
@@ -12,7 +12,7 @@
 
 然后
 
-![图2](https://github.com/chy-2003/PicS/blob/master/2.png?raw=true)
+![图2](https://github.com/chy-2003/PicS/raw/master/2.png?raw=true)
 
 喔～目瞪口呆
 
